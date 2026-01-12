@@ -24,9 +24,7 @@
   <img width="45%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mario-sh&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-sh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ---
 
