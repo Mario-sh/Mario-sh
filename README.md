@@ -32,8 +32,7 @@
 ---
 
 ### 🌟 Projets en vedette
-* **[Piscine Web](https://github.com/Mario-sh/piscineweb00)** : Une série de défis intensifs pour maîtriser le développement web moderne.
-* **[Projet 2]** : (Ajoute ici une courte description d'un autre projet important).
+
 
 ---
 
