@@ -19,10 +19,9 @@
 ---
 
 ### 🔥 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mario-sh&show_icons=true&theme=radical&hide_border=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-sh&layout=compact&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Mario-sh&show_icons=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mario-sh&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
