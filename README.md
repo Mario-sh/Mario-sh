@@ -1,4 +1,4 @@
-# 👨‍💻 *Hey, I'm Dylane* | [Dylane-coder](https://github.com/Dylane-coder)
+# 👨‍💻 *Hey, I'm Mario* | [Mario-sh](https://github.com/Mario-sh)
 
 🚀 *Full-Stack Developer* | 💡 *Problem Solver* | 🌍 *Open-Source Enthusiast*  
 ✨ Passionate about building efficient, scalable, and user-friendly software.
@@ -30,8 +30,8 @@
 
 ### 🔥 *GitHub Stats & Top Languages*
 
-[![Dylane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylane-coder&show_icons=true&theme=radical&hide_border=true)](https://github.com/Dylane-coder)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylane-coder&layout=compact&theme=radical&hide_border=true)](https://github.com/Dylane-coder)
+[![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylane-coder&show_icons=true&theme=radical&hide_border=true)](https://github.com/Mario-sh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylane-coder&layout=compact&theme=radical&hide_border=true)](https://github.com/Mario-sh)
 
 
 ---
