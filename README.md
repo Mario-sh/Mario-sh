@@ -30,8 +30,8 @@
 
 ### 🔥 *GitHub Stats & Top Languages*
 
-[![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylane-coder&show_icons=true&theme=radical&hide_border=true)](https://github.com/Mario-sh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylane-coder&layout=compact&theme=radical&hide_border=true)](https://github.com/Mario-sh)
+[![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mario-sh&show_icons=true&theme=radical&hide_border=true)](https://github.com/Mario-sh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-sh&layout=compact&theme=radical&hide_border=true)](https://github.com/Mario-sh)
 
 
 ---
