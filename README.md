@@ -3,9 +3,6 @@
 **Software Architecture Student → Future AI Engineer**
 Benin | Building AI-powered solutions, from fundamentals to deployment
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mario-sh&label=Profile%20Views&color=0e75b6&style=flat" alt="Mario-sh" />
-</p>
 
 ---
 
