@@ -1,6 +1,6 @@
 # 👨‍💻 Hey, I'm Dylane
 
-**Software Architecture Student → Future AI Engineer**
+**Software Architecture Student → Aspiring AI Engineer**
 Benin | Building AI-powered solutions, from fundamentals to deployment
 
 
