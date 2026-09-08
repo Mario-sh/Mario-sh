@@ -8,7 +8,7 @@ Benin | Building AI-powered solutions, from fundamentals to deployment
 
 ### Where I'm at
 
-I'm building solid fundamentals (algorithms, data structures, OOP) in C, Java and Python, while already shipping real AI integration projects (chatbots using the Gemini and Groq APIs).
+I'm building solid fundamentals (algorithms, data structures, OOP) in C, Java and Python, while already shipping real AI integration projects (chatbots, RAG, Marchine Learning using the Gemini and Groq APIs).
 
 Currently working on:
 - Strengthening algo/OOP fundamentals (C + Python)
