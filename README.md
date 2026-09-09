@@ -1,4 +1,4 @@
-# 👨‍💻 Hey, I'm Dylane
+# 👨‍💻 Hey, I'm Mario
 
 **Software Architecture Student → Aspiring AI Engineer**
 Benin | Building AI-powered solutions, from fundamentals to deployment
